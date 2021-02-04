@@ -1,0 +1,2 @@
+# cocos.BCX
+Verify
